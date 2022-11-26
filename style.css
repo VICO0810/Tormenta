@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://img.freepik.com/vector-gratis/plantilla-etiqueta-muchos-globos-aislados_1308-59088.jpg?w=2000);
+    background-repeat: no-repeat;background-size: 2000px;
+}
+p{
+    font-size: 50px;color: silver;background-color: slateblue;
+}
+
+h3{
+    font-size: 50px;color: greenyellow;background-color: gainsboro;
+}
+h4{
+    font-size: 50px;color: wheat;background-color: rgb(81, 107, 98);
+}
